@@ -1,0 +1,13 @@
+NRF24.c:26:9:NRF24_ReadReg	40	static
+NRF24.c:39:6:NRF24_WriteReg	32	static
+NRF24.c:47:6:NRF24_ToggleFeatures	16	static
+NRF24.c:57:6:NRF24_Read_Buf	40	static
+NRF24.c:64:6:NRF24_Write_Buf	24	static
+NRF24.c:73:6:NRF24_FlushRX	16	static
+NRF24.c:81:6:NRF24_FlushTX	16	static
+NRF24.c:89:6:NRF24_RX_Mode	8	static
+NRF24.c:102:6:NRF24_ini	8	static
+NRF24.c:128:6:NRF24_TX_Mode	8	static
+NRF24.c:137:6:NRF24_Transmit	32	static
+NRF24.c:148:9:NRF24_Send	16	static
+NRF24.c:181:10:NRF24_Receive	16	static

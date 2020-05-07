@@ -1,0 +1,11 @@
+tm1638.c:19:6:show_number	24	static
+tm1638.c:35:6:tm_turn_on	16	static
+tm1638.c:44:6:tm_turn_off	16	static
+tm1638.c:53:6:tm_clear_all	24	static
+tm1638.c:72:6:tm_set_led	16	static
+tm1638.c:77:6:tm_show_digit	16	static
+tm1638.c:82:6:tm_clear_leds	24	static
+tm1638.c:91:6:tm_clear_digits	24	static
+tm1638.c:100:6:tm_write_data_fixed	16	static
+tm1638.c:114:6:tm_get_key_state	24	static
+tm1638.c:121:9:tm_get_keys_state	24	static

@@ -1,0 +1,13 @@
+NRF24.c:11:22:DelayMicro	16	static
+NRF24.c:19:9:NRF24_ReadReg	32	static
+NRF24.c:33:6:NRF24_WriteReg	16	static
+NRF24.c:42:6:NRF24_ToggleFeatures	16	static
+NRF24.c:53:6:NRF24_Read_Buf	16	static
+NRF24.c:61:6:NRF24_Write_Buf	16	static
+NRF24.c:71:6:NRF24_FlushRX	16	static
+NRF24.c:80:6:NRF24_FlushTX	16	static
+NRF24.c:89:6:NRF24_RX_Mode	16	static
+NRF24.c:103:6:NRF24_ini	8	static
+NRF24.c:130:6:NRF24_TX_Mode	16	static
+NRF24.c:139:6:NRF24_Transmit	16	static
+NRF24.c:150:8:NRF24_Send	24	static
